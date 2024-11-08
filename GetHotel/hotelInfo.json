@@ -1,0 +1,23 @@
+  {
+    "Radisson": {
+        "rating": 3,
+        "rates": {
+            "regular": { "weekday": 110, "weekend": 100 },
+            "reward": { "weekday": 100, "weekend": 90 }
+        }
+    },
+    "Taj": {
+        "rating": 2,
+        "rates": {
+            "regular": { "weekday": 120, "weekend": 110 },
+            "reward": { "weekday": 105, "weekend": 95 }
+        }
+    },
+    "Oyo": {
+        "rating": 4,
+        "rates": {
+            "regular": { "weekday": 130, "weekend": 90 },
+            "reward": { "weekday": 90, "weekend": 80 }
+        }
+    }
+}
